@@ -11,5 +11,8 @@
 		"psr-4": {
 			"KayStrobach\\Dyncss\\": "Classes"
 		}
-	}
+	},
+	 "replace": {
+    		"typo3-ter/dyncss": "self.version"
+	 }
 }
